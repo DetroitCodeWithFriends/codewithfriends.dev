@@ -30,3 +30,4 @@
 |[@Brian - R](//discordapp.com/users/830490232599871529)|experiment with [ChirpStack](//chirpstack.io) & [Postgresql](//postgres.org) to solve the problems of distributed real-time wildlife cameras and their specific needs for computer vision|
 |[@JeffH](//discordapp.com/users/286137835814125570)|leisurely fun API project like getting the [r/ProgrammerHumor subReddit](//reddit.com/r/ProgrammerHumor) content into our own format. Daily r/ProgrammersHumor feed to offer subscribers a laugh, using Reddit API, [Twilio](//twilio.com)/SMS integration|
 |[@life-long-learner](//discordapp.com/users/827415572111032350)|CodeWithFriends live coding interface, using [Jitsi](//jitsi.org), [tmux](//github.com/tmux/tmux/wiki), XTerm and [CodeSandbox](//codesandbox.io)|
+|[@fwef2w](//discordapp.com/users/827415572111032350)| Expanding on Kali Linux, [routersploit](https://www.kali.org/tools/routersploit/), stealth virus/rootkits,  devops, pair programming (being a driver)|
